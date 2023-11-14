@@ -3,7 +3,7 @@
 
 ![This is the Project Thumbnail](./snap.png)
 
-# To check the node bersion
+# To check the node version
 
 ```
 node --version
